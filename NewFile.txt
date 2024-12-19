@@ -1,3 +1,7 @@
 Wazzup. How are you doing today. 
 
+<<<<<<< HEAD
 Jenkins is failing ....lets fix it....Please fix it
+=======
+Jenkins is failing ....lets fix it
+>>>>>>> cf8535b9ad0c8f4b479b055d2e5fd189683ba522
